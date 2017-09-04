@@ -31,3 +31,4 @@ This repo holds config and docs about things I use, as well as a list of tools e
  + kubefed
  + stern 
  + kops and kops channels
+ + helm
